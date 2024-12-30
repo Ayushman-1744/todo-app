@@ -1,5 +1,6 @@
 make soup
-clean the code
-new order
-we just  made a default arg
-Master Python
+clean the programmaster python
+Anything
+Buy plansBuy plants
+Mt newest todo is added
+and lastly
