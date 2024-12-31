@@ -1,7 +1,6 @@
 make soup
-master pythonAnything
-Buy plansBuy plants
 understood again
 Clean program
 anything
 buy painting
+buy plants
